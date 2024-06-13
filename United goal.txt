@@ -164,7 +164,7 @@
          <h3>
            
             <h4 style="text-align:left"</h4>
-            Te ayuda a despejar la mente y activar la creeatividad, 
+            Te ayuda a despejar la mente y activar la creatividad, 
   
          <h4>
            
@@ -235,7 +235,7 @@
          <h4>
            
             <h3 style="text-align:left"</h3>
-        2.-Read/watch/listen to something that inspires you
+        2.-Read/watch/listen something that inspires you
          <h3>
            
            <h4 style="text-align:left"</h4>
